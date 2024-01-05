@@ -1,0 +1,10 @@
+.imageSetup {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.imageSetup img {
+  width: 100%;
+  height: auto;
+}
