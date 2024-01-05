@@ -1,8 +1,15 @@
-**Local launch instructions**
+# CompSci In Bethlehem's Official Webpage
+About us. Our work. And our story.
 
-run:
-cd csinbeth-web
-cd csinbeth
-npm start
-go to:
-http://localhost:3000/
+### Deploying to Github Pages
+Push most recent changes.  
+Run:
+`npm run deploy`  
+Go to:
+https://csiblehigh.github.io/home/
+
+### Local launch instructions
+Run:
+`npm start`  
+Go to:
+    http://localhost:3000/
